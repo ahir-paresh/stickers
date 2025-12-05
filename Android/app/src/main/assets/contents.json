@@ -1,5 +1,5 @@
 {
-  "android_play_store_link": "",
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.hindi.aksharpath.trace",
   "ios_app_store_link": "",
   "sticker_packs": [
 
@@ -599,9 +599,379 @@
               "accessibility_text": "Krishna: Througingbutture."
             }
           ]
+        },
+
+    {
+      "identifier": "5",
+      "name": "Krishna With Cow",
+      "publisher": "paresh Khorashiya",
+      "tray_image_file": "sleepingWithCow.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "ahirparesh5@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "ridingCow4.webp",
+          "emojis": [
+            "🐄",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with a cow."
+        },
+        {
+          "image_file": "ChilingWithCow.webp",
+          "emojis": [
+            "🐄",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with a cow."
+        },
+        {
+          "image_file": "cowLickingFace.webp",
+          "emojis": [
+            "🐄",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with a cow."
+        },
+        {
+          "image_file": "cowLickinghand.webp",
+          "emojis": [
+            "🐄",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with a cow."
+        },
+        {
+          "image_file": "Dancing.webp",
+          "emojis": [
+            "😊",
+            "✨"
+          ],
+          "accessibility_text": "Little Krishna: Dancing."
+        },
+        {
+          "image_file": "eating.webp",
+          "emojis": [
+            "😊",
+            "✨"
+          ],
+          "accessibility_text": "Little Krishna: eating."
+        },
+        {
+          "image_file": "feedingCow.webp",
+          "emojis": [
+            "🐄",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with a cow."
+        },
+        {
+          "image_file": "hiding.webp",
+          "emojis": [
+            "😊",
+            "✨"
+          ],
+          "accessibility_text": "Little Krishna: hiding."
+        },
+        {
+          "image_file": "LovingCow.webp",
+          "emojis": [
+            "🐄",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with a cow."
+        },
+        {
+          "image_file": "NortyCow.webp",
+          "emojis": [
+            "🐄",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with a cow."
+        },
+        {
+          "image_file": "playingFluit.webp",
+          "emojis": [
+            "😊",
+            "✨",
+            "🎉"
+          ],
+          "accessibility_text": "Little Krishna happily playing."
+        },
+        {
+          "image_file": "pointCloud.webp",
+          "emojis": [
+            "😊",
+            "✨"
+          ],
+          "accessibility_text": "Little Krishna: pointCloud."
+        },
+        {
+          "image_file": "protectingFromRain.webp",
+          "emojis": [
+            "😊",
+            "✨"
+          ],
+          "accessibility_text": "Little Krishna: protectingFromRain."
+        },
+        {
+          "image_file": "ridingCowCart.webp",
+          "emojis": [
+            "🐄",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with a cow."
+        },
+        {
+          "image_file": "RidingCowCart2.webp",
+          "emojis": [
+            "🐄",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with a cow."
+        },
+        {
+          "image_file": "sayHello.webp",
+          "emojis": [
+            "😊",
+            "✨"
+          ],
+          "accessibility_text": "Little Krishna: sayHello."
+        },
+        {
+          "image_file": "sleepingWithCow.webp",
+          "emojis": [
+            "🐄",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with a cow."
+        },
+        {
+          "image_file": "withCalf.webp",
+          "emojis": [
+            "😊",
+            "✨"
+          ],
+          "accessibility_text": "Little Krishna: withCalf."
         }
+      ]
+    },
 
 
+    {
+      "identifier": "6",
+      "name": "Krishna With Yashoda Ma",
+      "publisher": "paresh Khorashiya",
+      "tray_image_file": "sleepingOnMotherLap.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "ahirparesh5@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "nortyKrishna.webp",
+          "emojis": [
+            "😊",
+            "✨"
+          ],
+          "accessibility_text": "Little Krishna with Yashoda Ma: nortyKrishna."
+        },
+        {
+          "image_file": "chilingwithma.webp",
+          "emojis": [
+            "👩‍🍼",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with Yashoda Ma."
+        },
+        {
+          "image_file": "feeding.webp",
+          "emojis": [
+            "😊",
+            "✨"
+          ],
+          "accessibility_text": "Little Krishna with Yashoda Ma: feeding."
+        },
+        {
+          "image_file": "lovingMa.webp",
+          "emojis": [
+            "👩‍🍼",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with Yashoda Ma."
+        },
+        {
+          "image_file": "lovingMa2.webp",
+          "emojis": [
+            "👩‍🍼",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with Yashoda Ma."
+        },
+        {
+          "image_file": "lovingMa3.webp",
+          "emojis": [
+            "👩‍🍼",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with Yashoda Ma."
+        },
+        {
+          "image_file": "lovingMa4.webp",
+          "emojis": [
+            "👩‍🍼",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with Yashoda Ma."
+        },
+        {
+          "image_file": "maHelpingForSetHair.webp",
+          "emojis": [
+            "👩‍🍼",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with Yashoda Ma."
+        },
+        {
+          "image_file": "nortyKrishna2.webp",
+          "emojis": [
+            "😊",
+            "✨"
+          ],
+          "accessibility_text": "Little Krishna with Yashoda Ma: nortyKrishna2."
+        },
+        {
+          "image_file": "sleepingOnMotherLap.webp",
+          "emojis": [
+            "👩‍🍼",
+            "❤️",
+            "😊"
+          ],
+          "accessibility_text": "Little Krishna playing with Yashoda Ma."
+        }
+      ]
+    },
+
+
+
+
+    {
+      "identifier": "7",
+      "name": "Krishna With Radha",
+      "publisher": "paresh Khorashiya",
+      "tray_image_file": "loving.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "ahirparesh5@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "saySorryToRadha.webp",
+          "emojis": [
+            "🙏",
+            "😔",
+            "💐"
+          ],
+          "accessibility_text": "Krishna saying sorry to Radha."
+        },
+        {
+          "image_file": "dancing.webp",
+          "emojis": [
+            "💃",
+            "🎉",
+            "✨"
+          ],
+          "accessibility_text": "Krishna dancing with Radha."
+        },
+        {
+          "image_file": "eating.webp",
+          "emojis": [
+            "🍽️",
+            "😋",
+            "🧈"
+          ],
+          "accessibility_text": "Krishna eating with Radha."
+        },
+        {
+          "image_file": "feeding.webp",
+          "emojis": [
+            "🍽️",
+            "🤱",
+            "😊"
+          ],
+          "accessibility_text": "Krishna feeding Radha."
+        },
+        {
+          "image_file": "holdingHand.webp",
+          "emojis": [
+            "🤝",
+            "❤️",
+            "😊"
+          ],
+          "accessibility_text": "Krishna holding Radha's hand."
+        },
+        {
+          "image_file": "laughing.webp",
+          "emojis": [
+            "😄",
+            "😂",
+            "😊"
+          ],
+          "accessibility_text": "Krishna laughing with Radha."
+        },
+        {
+          "image_file": "layingFluat.webp",
+          "emojis": [
+            "🎶",
+            "🎵",
+            "😊"
+          ],
+          "accessibility_text": "Krishna playing the flute for Radha."
+        },
+        {
+          "image_file": "loving.webp",
+          "emojis": [
+            "😍",
+            "💕",
+            "😊"
+          ],
+          "accessibility_text": "Krishna showing love to Radha."
+        },
+        {
+          "image_file": "swinging.webp",
+          "emojis": [
+            "🌿",
+            "🎐",
+            "😊"
+          ],
+          "accessibility_text": "Krishna swinging with Radha."
+        }
+      ]
+    }
 
 
 
