@@ -4,9 +4,383 @@
   "sticker_packs": [
 
 
+
+
+{
+  "identifier": "8",
+  "name": "Krishna HD Pack",
+  "publisher": "paresh Khorashiya",
+  "tray_image_file": "happy2.webp",
+  "image_data_version": "1",
+  "avoid_cache": false,
+  "publisher_email": "ahirparesh5@gmail.com",
+  "publisher_website": "",
+  "privacy_policy_website": "",
+  "license_agreement_website": "",
+  "stickers": [
     {
+      "image_file": "angry.webp",
+      "emojis": [
+        "😡",
+        "😠",
+        "👿"
+      ],
+      "accessibility_text": "Cute Krishna looking angry."
+    },
+    {
+      "image_file": "beyAndGoToShool.webp",
+      "emojis": [
+        "👋",
+        "🏫",
+        "😊"
+      ],
+      "accessibility_text": "Cute Krishna saying bye and going to school."
+    },
+    {
+      "image_file": "bore.webp",
+      "emojis": [
+        "😐",
+        "😴",
+        "😒"
+      ],
+      "accessibility_text": "Cute Krishna looking bored."
+    },
+    {
+      "image_file": "celebration.webp",
+      "emojis": [
+        "🎉",
+        "✨",
+        "🎊"
+      ],
+      "accessibility_text": "Cute Krishna celebrating."
+    },
+    {
+      "image_file": "cycling.webp",
+      "emojis": [
+        "🚴",
+        "😊",
+        "🌿"
+      ],
+      "accessibility_text": "Cute Krishna cycling."
+    },
+    {
+      "image_file": "dance.webp",
+      "emojis": [
+        "💃",
+        "🎉",
+        "✨"
+      ],
+      "accessibility_text": "Cute Krishna dancing."
+    },
+    {
+      "image_file": "done.webp",
+      "emojis": [
+        "✅",
+        "👍",
+        "🎉"
+      ],
+      "accessibility_text": "Cute Krishna done / all set."
+    },
+    {
+      "image_file": "drinking.webp",
+      "emojis": [
+        "🥤",
+        "😋",
+        "😊"
+      ],
+      "accessibility_text": "Cute Krishna drinking."
+    },
+    {
+      "image_file": "eating.webp",
+      "emojis": [
+        "🍽️",
+        "😋",
+        "🧈"
+      ],
+      "accessibility_text": "Cute Krishna eating."
+    },
+    {
+      "image_file": "engry.webp",
+      "emojis": [
+        "😡",
+        "😠",
+        "👿"
+      ],
+      "accessibility_text": "Cute Krishna angry."
+    },
+    {
+      "image_file": "goodMorning.webp",
+      "emojis": [
+        "🌞",
+        "☀️",
+        "🙏"
+      ],
+      "accessibility_text": "Cute Krishna saying good morning."
+    },
+    {
+      "image_file": "happy.webp",
+      "emojis": [
+        "🙂",
+        "😄",
+        "✨"
+      ],
+      "accessibility_text": "Cute Krishna happy."
+    },
+    {
+      "image_file": "happy2.webp",
+      "emojis": [
+        "🙂",
+        "😄",
+        "✨"
+      ],
+      "accessibility_text": "Cute Krishna very happy."
+    },
+    {
+      "image_file": "heartlySorry.webp",
+      "emojis": [
+        "🙏",
+        "😔",
+        "💐"
+      ],
+      "accessibility_text": "Cute Krishna saying sorry from the heart."
+    },
+    {
+      "image_file": "hi.webp",
+      "emojis": [
+        "👋",
+        "😊",
+        "🙋"
+      ],
+      "accessibility_text": "Cute Krishna saying hi."
+    },
+    {
+      "image_file": "hi2.webp",
+      "emojis": [
+        "👋",
+        "😊",
+        "🙋"
+      ],
+      "accessibility_text": "Cute Krishna greeting."
+    },
+    {
+      "image_file": "hi4.webp",
+      "emojis": [
+        "👋",
+        "😊",
+        "🙋"
+      ],
+      "accessibility_text": "Cute Krishna waving hello."
+    },
+    {
+      "image_file": "hifi.webp",
+      "emojis": [
+        "✋",
+        "🤝",
+        "😊"
+      ],
+      "accessibility_text": "Cute Krishna high-fiving."
+    },
+    {
+      "image_file": "hungry.webp",
+      "emojis": [
+        "🍽️",
+        "😩",
+        "😋"
+      ],
+      "accessibility_text": "Cute Krishna feeling hungry."
+    },
+    {
+      "image_file": "laughing.webp",
+      "emojis": [
+        "😄",
+        "😂",
+        "🤣"
+      ],
+      "accessibility_text": "Cute Krishna laughing."
+    },
+    {
+      "image_file": "laughing2.webp",
+      "emojis": [
+        "😄",
+        "😂",
+        "🤣"
+      ],
+      "accessibility_text": "Cute Krishna laughing out loud."
+    },
+    {
+      "image_file": "lol.webp",
+      "emojis": [
+        "😄",
+        "😂",
+        "🤣"
+      ],
+      "accessibility_text": "Cute Krishna saying lol (laughing)."
+    },
+    {
+      "image_file": "love.webp",
+      "emojis": [
+        "😍",
+        "💕",
+        "❤️"
+      ],
+      "accessibility_text": "Cute Krishna showing love."
+    },
+    {
+      "image_file": "love2.webp",
+      "emojis": [
+        "😍",
+        "💕",
+        "❤️"
+      ],
+      "accessibility_text": "Cute Krishna in love."
+    },
+    {
+      "image_file": "love3.webp",
+      "emojis": [
+        "😍",
+        "💕",
+        "❤️"
+      ],
+      "accessibility_text": "Cute Krishna loving."
+    },
+    {
+      "image_file": "love4.webp",
+      "emojis": [
+        "😍",
+        "💕",
+        "❤️"
+      ],
+      "accessibility_text": "Cute Krishna feeling affectionate."
+    },
+    {
+      "image_file": "LoveAndWelcome.webp",
+      "emojis": [
+        "👋",
+        "❤️",
+        "✨"
+      ],
+      "accessibility_text": "Cute Krishna welcoming with love."
+    },
+    {
+      "image_file": "needHug.webp",
+      "emojis": [
+        "🤗",
+        "🤍",
+        "😊"
+      ],
+      "accessibility_text": "Cute Krishna needing a hug."
+    }
+  ]
+}
+
+
+
+,
+
+{
+"identifier": "9",
+"name": "Krishna HD Pack 2",
+"publisher": "paresh Khorashiya",
+"tray_image_file": "playingFluit2.webp",
+"image_data_version": "1",
+"avoid_cache": false,
+"publisher_email": "ahirparesh5@gmail.com",
+"publisher_website": "",
+"privacy_policy_website": "",
+"license_agreement_website": "",
+"stickers": [
+{
+"image_file": "needhug2.webp",
+"emojis": ["🤗", "❤️", "😊"],
+"accessibility_text": "Cute Krishna needing a hug."
+},
+{
+"image_file": "needSomething.webp",
+"emojis": ["🤔", "❓", "😊"],
+"accessibility_text": "Cute Krishna needing something."
+},
+{
+"image_file": "playingFluit.webp",
+"emojis": ["🎶", "🎵", "😊"],
+"accessibility_text": "Cute Krishna playing the flute."
+},
+{
+"image_file": "playingFluit2.webp",
+"emojis": ["🎶", "🎵", "✨"],
+"accessibility_text": "Cute Krishna joyfully playing flute."
+},
+{
+"image_file": "please.webp",
+"emojis": ["🙏", "🥺", "🤍"],
+"accessibility_text": "Cute Krishna requesting politely."
+},
+{
+"image_file": "question.webp",
+"emojis": ["❓", "🤔", "😊"],
+"accessibility_text": "Cute Krishna asking a question."
+},
+{
+"image_file": "runing.webp",
+"emojis": ["🏃‍♂️", "💨", "😊"],
+"accessibility_text": "Cute Krishna running."
+},
+{
+"image_file": "sad.webp",
+"emojis": ["😢", "😭", "😔"],
+"accessibility_text": "Cute Krishna feeling sad."
+},
+{
+"image_file": "sleep.webp",
+"emojis": ["😴", "🌙", "💤"],
+"accessibility_text": "Cute Krishna sleeping."
+},
+{
+"image_file": "sleepy.webp",
+"emojis": ["🥱", "😴", "💤"],
+"accessibility_text": "Cute Krishna feeling sleepy."
+},
+{
+"image_file": "sorry.webp",
+"emojis": ["🙏", "💔", "😔"],
+"accessibility_text": "Cute Krishna saying sorry."
+},
+{
+"image_file": "study.webp",
+"emojis": ["📚", "✏️", "😊"],
+"accessibility_text": "Cute Krishna studying."
+},
+{
+"image_file": "thinging.webp",
+"emojis": ["🤔", "💭", "🧠"],
+"accessibility_text": "Cute Krishna thinking."
+},
+{
+"image_file": "welcome.webp",
+"emojis": ["👋", "😊", "✨"],
+"accessibility_text": "Cute Krishna welcoming."
+},
+{
+"image_file": "welcome2.webp",
+"emojis": ["👋", "🤗", "✨"],
+"accessibility_text": "Cute Krishna warmly welcoming."
+},
+{
+"image_file": "work.webp",
+"emojis": ["💼", "✍️", "😊"],
+"accessibility_text": "Cute Krishna working."
+},
+{
+"image_file": "yehh.webp",
+"emojis": ["🎉", "😄", "✨"],
+"accessibility_text": "Cute Krishna celebrating with joy."
+}
+]
+}
+,
+
+{
       "identifier": "3",
-      "name": "cute Krishna",
+      "name": "Cute Krishna",
       "publisher": "paresh Khorashiya",
       "tray_image_file": "namaste3.webp",
       "image_data_version": "1",
@@ -103,9 +477,629 @@
         }
       ]
     },
+
+
+
+
+
+
+        {
+          "identifier": "4",
+          "name": "Krishna Vs Demon",
+          "publisher": "paresh Khorashiya",
+          "tray_image_file": "govardhanParvt_try.webp",
+          "image_data_version": "1",
+          "avoid_cache": false,
+          "publisher_email": "ahirparesh5@gmail.com",
+          "publisher_website": "",
+          "privacy_policy_website": "",
+          "license_agreement_website": "",
+          "stickers": [
+            {
+              "image_file": "GoverdhanParvat2.webp",
+              "emojis": [
+                "✨",
+                "😊"
+              ],
+              "accessibility_text": "Krishna: Goverdhanparvat2."
+            },
+            {
+              "image_file": "catchingDemoGroup.webp",
+              "emojis": [
+                "👹",
+                "🔥",
+                "⚔️"
+              ],
+              "accessibility_text": "Krishna fighting a demon."
+            },
+            {
+              "image_file": "DancingWithDemon.webp",
+              "emojis": [
+                "⚔️",
+                "💥",
+                "🔥"
+              ],
+              "accessibility_text": "Krishna in battle."
+            },
+            {
+              "image_file": "demonInsurt.webp",
+              "emojis": [
+                "👹",
+                "🔥",
+                "⚔️"
+              ],
+              "accessibility_text": "Krishna fighting a demon."
+            },
+            {
+              "image_file": "demonShockKrishnaRock.webp",
+              "emojis": [
+                "👹",
+                "🔥",
+                "⚔️"
+              ],
+              "accessibility_text": "Krishna fighting a demon."
+            },
+            {
+              "image_file": "demonTryToAtteck.webp",
+              "emojis": [
+                "⚔️",
+                "💥",
+                "😠"
+              ],
+              "accessibility_text": "Krishna attacking the enemy."
+            },
+            {
+              "image_file": "dhancingWithDemon.webp",
+              "emojis": [
+                "⚔️",
+                "💥",
+                "🔥"
+              ],
+              "accessibility_text": "Krishna in battle."
+            },
+            {
+              "image_file": "govardhanParvt.webp",
+              "emojis": [
+                "✨",
+                "😊"
+              ],
+              "accessibility_text": "Krishna: Govardhanparvt."
+            },
+            {
+              "image_file": "holdingGovredhan.webp",
+              "emojis": [
+                "✨",
+                "😊"
+              ],
+              "accessibility_text": "Krishna: Holdinggovredhan."
+            },
+            {
+              "image_file": "maghanChore.webp",
+              "emojis": [
+                "✨",
+                "😊"
+              ],
+              "accessibility_text": "Krishna: Maghanchore."
+            },
+            {
+              "image_file": "playingAgainDemon.webp",
+              "emojis": [
+                "👹",
+                "🔥",
+                "⚔️"
+              ],
+              "accessibility_text": "Krishna fighting a demon."
+            },
+            {
+              "image_file": "playingFlute.webp",
+              "emojis": [
+                "✨",
+                "😊"
+              ],
+              "accessibility_text": "Krishna showing divine power."
+            },
+            {
+              "image_file": "playingFlute2.webp",
+              "emojis": [
+                "✨",
+                "😊"
+              ],
+              "accessibility_text": "Krishna showing divine power."
+            },
+            {
+              "image_file": "playingRopeGameWidthDemon.webp",
+              "emojis": [
+                "👹",
+                "🔥",
+                "⚔️"
+              ],
+              "accessibility_text": "Krishna fighting a demon."
+            },
+            {
+              "image_file": "playingRopeGameWithDemon.webp",
+              "emojis": [
+                "👹",
+                "🔥",
+                "⚔️"
+              ],
+              "accessibility_text": "Krishna fighting a demon."
+            },
+            {
+              "image_file": "playingWithDemon2.webp",
+              "emojis": [
+                "👹",
+                "🔥",
+                "⚔️"
+              ],
+              "accessibility_text": "Krishna fighting a demon."
+            },
+            {
+              "image_file": "playingWithGost.webp",
+              "emojis": [
+                "✨",
+                "😊"
+              ],
+              "accessibility_text": "Krishna: Playingwithgost."
+            },
+            {
+              "image_file": "playingWithMamaKunsh.webp",
+              "emojis": [
+                "✨",
+                "😊"
+              ],
+              "accessibility_text": "Krishna: Playingwithmamakunsh."
+            },
+            {
+              "image_file": "ranChhor.webp",
+              "emojis": [
+                "✨",
+                "😊"
+              ],
+              "accessibility_text": "Krishna: Ranchhor."
+            },
+            {
+              "image_file": "ropingDemon.webp",
+              "emojis": [
+                "⚔️",
+                "💥",
+                "🔥"
+              ],
+              "accessibility_text": "Krishna in battle."
+            },
+            {
+              "image_file": "runningAfterDemon.webp",
+              "emojis": [
+                "⚔️",
+                "💥",
+                "🔥"
+              ],
+              "accessibility_text": "Krishna in battle."
+            },
+            {
+              "image_file": "soutInFaceOfDemon.webp",
+              "emojis": [
+                "👹",
+                "🔥",
+                "⚔️"
+              ],
+              "accessibility_text": "Krishna fighting a demon."
+            },
+            {
+              "image_file": "throughButtonOnDemon.webp",
+              "emojis": [
+                "⚔️",
+                "💥",
+                "🔥"
+              ],
+              "accessibility_text": "Krishna in battle."
+            },
+            {
+              "image_file": "throughingButterOnKunsMama.webp",
+              "emojis": [
+                "✨",
+                "😊"
+              ],
+              "accessibility_text": "Krishna: Throughingbutteronkunsmama."
+            },
+            {
+              "image_file": "throughingDemonOnAir.webp",
+              "emojis": [
+                "👹",
+                "🔥",
+                "⚔️"
+              ],
+              "accessibility_text": "Krishna fighting a demon."
+            },
+            {
+              "image_file": "througingButture.webp",
+              "emojis": [
+                "✨",
+                "😊"
+              ],
+              "accessibility_text": "Krishna: Througingbutture."
+            }
+          ]
+        },
+
+    {
+      "identifier": "5",
+      "name": "With Little Cow",
+      "publisher": "paresh Khorashiya",
+      "tray_image_file": "sleepingWithCow.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "ahirparesh5@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "ridingCow4.webp",
+          "emojis": [
+            "🐄",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with a cow."
+        },
+        {
+          "image_file": "ChilingWithCow.webp",
+          "emojis": [
+            "🐄",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with a cow."
+        },
+        {
+          "image_file": "cowLickingFace.webp",
+          "emojis": [
+            "🐄",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with a cow."
+        },
+        {
+          "image_file": "cowLickinghand.webp",
+          "emojis": [
+            "🐄",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with a cow."
+        },
+        {
+          "image_file": "Dancing.webp",
+          "emojis": [
+            "😊",
+            "✨"
+          ],
+          "accessibility_text": "Little Krishna: Dancing."
+        },
+        {
+          "image_file": "eating.webp",
+          "emojis": [
+            "😊",
+            "✨"
+          ],
+          "accessibility_text": "Little Krishna: eating."
+        },
+        {
+          "image_file": "feedingCow.webp",
+          "emojis": [
+            "🐄",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with a cow."
+        },
+        {
+          "image_file": "hiding.webp",
+          "emojis": [
+            "😊",
+            "✨"
+          ],
+          "accessibility_text": "Little Krishna: hiding."
+        },
+        {
+          "image_file": "LovingCow.webp",
+          "emojis": [
+            "🐄",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with a cow."
+        },
+        {
+          "image_file": "NortyCow.webp",
+          "emojis": [
+            "🐄",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with a cow."
+        },
+        {
+          "image_file": "playingFluit.webp",
+          "emojis": [
+            "😊",
+            "✨",
+            "🎉"
+          ],
+          "accessibility_text": "Little Krishna happily playing."
+        },
+        {
+          "image_file": "pointCloud.webp",
+          "emojis": [
+            "😊",
+            "✨"
+          ],
+          "accessibility_text": "Little Krishna: pointCloud."
+        },
+        {
+          "image_file": "protectingFromRain.webp",
+          "emojis": [
+            "😊",
+            "✨"
+          ],
+          "accessibility_text": "Little Krishna: protectingFromRain."
+        },
+        {
+          "image_file": "ridingCowCart.webp",
+          "emojis": [
+            "🐄",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with a cow."
+        },
+        {
+          "image_file": "RidingCowCart2.webp",
+          "emojis": [
+            "🐄",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with a cow."
+        },
+        {
+          "image_file": "sayHello.webp",
+          "emojis": [
+            "😊",
+            "✨"
+          ],
+          "accessibility_text": "Little Krishna: sayHello."
+        },
+        {
+          "image_file": "sleepingWithCow.webp",
+          "emojis": [
+            "🐄",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with a cow."
+        },
+        {
+          "image_file": "withCalf.webp",
+          "emojis": [
+            "😊",
+            "✨"
+          ],
+          "accessibility_text": "Little Krishna: withCalf."
+        }
+      ]
+    },
+
+
+    {
+      "identifier": "6",
+      "name": "With Devaki ma",
+      "publisher": "paresh Khorashiya",
+      "tray_image_file": "sleepingOnMotherLap.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "ahirparesh5@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "nortyKrishna.webp",
+          "emojis": [
+            "😊",
+            "✨"
+          ],
+          "accessibility_text": "Little Krishna with Yashoda Ma: nortyKrishna."
+        },
+        {
+          "image_file": "chilingwithma.webp",
+          "emojis": [
+            "👩‍🍼",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with Yashoda Ma."
+        },
+        {
+          "image_file": "feeding.webp",
+          "emojis": [
+            "😊",
+            "✨"
+          ],
+          "accessibility_text": "Little Krishna with Yashoda Ma: feeding."
+        },
+        {
+          "image_file": "lovingMa.webp",
+          "emojis": [
+            "👩‍🍼",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with Yashoda Ma."
+        },
+        {
+          "image_file": "lovingMa2.webp",
+          "emojis": [
+            "👩‍🍼",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with Yashoda Ma."
+        },
+        {
+          "image_file": "lovingMa3.webp",
+          "emojis": [
+            "👩‍🍼",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with Yashoda Ma."
+        },
+        {
+          "image_file": "lovingMa4.webp",
+          "emojis": [
+            "👩‍🍼",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with Yashoda Ma."
+        },
+        {
+          "image_file": "maHelpingForSetHair.webp",
+          "emojis": [
+            "👩‍🍼",
+            "❤️",
+            "🙏"
+          ],
+          "accessibility_text": "Little Krishna playing with Yashoda Ma."
+        },
+        {
+          "image_file": "nortyKrishna2.webp",
+          "emojis": [
+            "😊",
+            "✨"
+          ],
+          "accessibility_text": "Little Krishna with Yashoda Ma: nortyKrishna2."
+        },
+        {
+          "image_file": "sleepingOnMotherLap.webp",
+          "emojis": [
+            "👩‍🍼",
+            "❤️",
+            "😊"
+          ],
+          "accessibility_text": "Little Krishna playing with Yashoda Ma."
+        }
+      ]
+    },
+
+
+
+
+    {
+      "identifier": "7",
+      "name": "With Radha",
+      "publisher": "paresh Khorashiya",
+      "tray_image_file": "loving.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "ahirparesh5@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "saySorryToRadha.webp",
+          "emojis": [
+            "🙏",
+            "😔",
+            "💐"
+          ],
+          "accessibility_text": "Krishna saying sorry to Radha."
+        },
+        {
+          "image_file": "dancing.webp",
+          "emojis": [
+            "💃",
+            "🎉",
+            "✨"
+          ],
+          "accessibility_text": "Krishna dancing with Radha."
+        },
+        {
+          "image_file": "eating.webp",
+          "emojis": [
+            "🍽️",
+            "😋",
+            "🧈"
+          ],
+          "accessibility_text": "Krishna eating with Radha."
+        },
+        {
+          "image_file": "feeding.webp",
+          "emojis": [
+            "🍽️",
+            "🤱",
+            "😊"
+          ],
+          "accessibility_text": "Krishna feeding Radha."
+        },
+        {
+          "image_file": "holdingHand.webp",
+          "emojis": [
+            "🤝",
+            "❤️",
+            "😊"
+          ],
+          "accessibility_text": "Krishna holding Radha's hand."
+        },
+        {
+          "image_file": "laughing.webp",
+          "emojis": [
+            "😄",
+            "😂",
+            "😊"
+          ],
+          "accessibility_text": "Krishna laughing with Radha."
+        },
+        {
+          "image_file": "layingFluat.webp",
+          "emojis": [
+            "🎶",
+            "🎵",
+            "😊"
+          ],
+          "accessibility_text": "Krishna playing the flute for Radha."
+        },
+        {
+          "image_file": "loving.webp",
+          "emojis": [
+            "😍",
+            "💕",
+            "😊"
+          ],
+          "accessibility_text": "Krishna showing love to Radha."
+        },
+        {
+          "image_file": "swinging.webp",
+          "emojis": [
+            "🌿",
+            "🎐",
+            "😊"
+          ],
+          "accessibility_text": "Krishna swinging with Radha."
+        }
+      ]
+    }
+
+
+
+
+  ,
     {
       "identifier": "Krishna",
-      "name": "cute Krishna",
+      "name": "Little Krishna",
       "publisher": "paresh Khorashiya",
       "tray_image_file": "sprite_02.webp",
       "image_data_version": "1",
@@ -356,622 +1350,9 @@
           "accessibility_text": "Cute Krishna sticker: sprite_21.webp."
         }
       ]
-    },
-
-
-
-
-
-
-        {
-          "identifier": "4",
-          "name": "Krishna Vs Demon",
-          "publisher": "paresh Khorashiya",
-          "tray_image_file": "govardhanParvt_try.webp",
-          "image_data_version": "1",
-          "avoid_cache": false,
-          "publisher_email": "ahirparesh5@gmail.com",
-          "publisher_website": "",
-          "privacy_policy_website": "",
-          "license_agreement_website": "",
-          "stickers": [
-            {
-              "image_file": "GoverdhanParvat2.webp",
-              "emojis": [
-                "✨",
-                "😊"
-              ],
-              "accessibility_text": "Krishna: Goverdhanparvat2."
-            },
-            {
-              "image_file": "catchingDemoGroup.webp",
-              "emojis": [
-                "👹",
-                "🔥",
-                "⚔️"
-              ],
-              "accessibility_text": "Krishna fighting a demon."
-            },
-            {
-              "image_file": "DancingWithDemon.webp",
-              "emojis": [
-                "⚔️",
-                "💥",
-                "🔥"
-              ],
-              "accessibility_text": "Krishna in battle."
-            },
-            {
-              "image_file": "demonInsurt.webp",
-              "emojis": [
-                "👹",
-                "🔥",
-                "⚔️"
-              ],
-              "accessibility_text": "Krishna fighting a demon."
-            },
-            {
-              "image_file": "demonShockKrishnaRock.webp",
-              "emojis": [
-                "👹",
-                "🔥",
-                "⚔️"
-              ],
-              "accessibility_text": "Krishna fighting a demon."
-            },
-            {
-              "image_file": "demonTryToAtteck.webp",
-              "emojis": [
-                "⚔️",
-                "💥",
-                "😠"
-              ],
-              "accessibility_text": "Krishna attacking the enemy."
-            },
-            {
-              "image_file": "dhancingWithDemon.webp",
-              "emojis": [
-                "⚔️",
-                "💥",
-                "🔥"
-              ],
-              "accessibility_text": "Krishna in battle."
-            },
-            {
-              "image_file": "govardhanParvt.webp",
-              "emojis": [
-                "✨",
-                "😊"
-              ],
-              "accessibility_text": "Krishna: Govardhanparvt."
-            },
-            {
-              "image_file": "holdingGovredhan.webp",
-              "emojis": [
-                "✨",
-                "😊"
-              ],
-              "accessibility_text": "Krishna: Holdinggovredhan."
-            },
-            {
-              "image_file": "maghanChore.webp",
-              "emojis": [
-                "✨",
-                "😊"
-              ],
-              "accessibility_text": "Krishna: Maghanchore."
-            },
-            {
-              "image_file": "playingAgainDemon.webp",
-              "emojis": [
-                "👹",
-                "🔥",
-                "⚔️"
-              ],
-              "accessibility_text": "Krishna fighting a demon."
-            },
-            {
-              "image_file": "playingFlute.webp",
-              "emojis": [
-                "✨",
-                "😊"
-              ],
-              "accessibility_text": "Krishna showing divine power."
-            },
-            {
-              "image_file": "playingFlute2.webp",
-              "emojis": [
-                "✨",
-                "😊"
-              ],
-              "accessibility_text": "Krishna showing divine power."
-            },
-            {
-              "image_file": "playingRopeGameWidthDemon.webp",
-              "emojis": [
-                "👹",
-                "🔥",
-                "⚔️"
-              ],
-              "accessibility_text": "Krishna fighting a demon."
-            },
-            {
-              "image_file": "playingRopeGameWithDemon.webp",
-              "emojis": [
-                "👹",
-                "🔥",
-                "⚔️"
-              ],
-              "accessibility_text": "Krishna fighting a demon."
-            },
-            {
-              "image_file": "playingWithDemon2.webp",
-              "emojis": [
-                "👹",
-                "🔥",
-                "⚔️"
-              ],
-              "accessibility_text": "Krishna fighting a demon."
-            },
-            {
-              "image_file": "playingWithGost.webp",
-              "emojis": [
-                "✨",
-                "😊"
-              ],
-              "accessibility_text": "Krishna: Playingwithgost."
-            },
-            {
-              "image_file": "playingWithMamaKunsh.webp",
-              "emojis": [
-                "✨",
-                "😊"
-              ],
-              "accessibility_text": "Krishna: Playingwithmamakunsh."
-            },
-            {
-              "image_file": "ranChhor.webp",
-              "emojis": [
-                "✨",
-                "😊"
-              ],
-              "accessibility_text": "Krishna: Ranchhor."
-            },
-            {
-              "image_file": "ropingDemon.webp",
-              "emojis": [
-                "⚔️",
-                "💥",
-                "🔥"
-              ],
-              "accessibility_text": "Krishna in battle."
-            },
-            {
-              "image_file": "runningAfterDemon.webp",
-              "emojis": [
-                "⚔️",
-                "💥",
-                "🔥"
-              ],
-              "accessibility_text": "Krishna in battle."
-            },
-            {
-              "image_file": "soutInFaceOfDemon.webp",
-              "emojis": [
-                "👹",
-                "🔥",
-                "⚔️"
-              ],
-              "accessibility_text": "Krishna fighting a demon."
-            },
-            {
-              "image_file": "throughButtonOnDemon.webp",
-              "emojis": [
-                "⚔️",
-                "💥",
-                "🔥"
-              ],
-              "accessibility_text": "Krishna in battle."
-            },
-            {
-              "image_file": "throughingButterOnKunsMama.webp",
-              "emojis": [
-                "✨",
-                "😊"
-              ],
-              "accessibility_text": "Krishna: Throughingbutteronkunsmama."
-            },
-            {
-              "image_file": "throughingDemonOnAir.webp",
-              "emojis": [
-                "👹",
-                "🔥",
-                "⚔️"
-              ],
-              "accessibility_text": "Krishna fighting a demon."
-            },
-            {
-              "image_file": "througingButture.webp",
-              "emojis": [
-                "✨",
-                "😊"
-              ],
-              "accessibility_text": "Krishna: Througingbutture."
-            }
-          ]
-        },
-
-    {
-      "identifier": "5",
-      "name": "Krishna With Cow",
-      "publisher": "paresh Khorashiya",
-      "tray_image_file": "sleepingWithCow.webp",
-      "image_data_version": "1",
-      "avoid_cache": false,
-      "publisher_email": "ahirparesh5@gmail.com",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "ridingCow4.webp",
-          "emojis": [
-            "🐄",
-            "❤️",
-            "🙏"
-          ],
-          "accessibility_text": "Little Krishna playing with a cow."
-        },
-        {
-          "image_file": "ChilingWithCow.webp",
-          "emojis": [
-            "🐄",
-            "❤️",
-            "🙏"
-          ],
-          "accessibility_text": "Little Krishna playing with a cow."
-        },
-        {
-          "image_file": "cowLickingFace.webp",
-          "emojis": [
-            "🐄",
-            "❤️",
-            "🙏"
-          ],
-          "accessibility_text": "Little Krishna playing with a cow."
-        },
-        {
-          "image_file": "cowLickinghand.webp",
-          "emojis": [
-            "🐄",
-            "❤️",
-            "🙏"
-          ],
-          "accessibility_text": "Little Krishna playing with a cow."
-        },
-        {
-          "image_file": "Dancing.webp",
-          "emojis": [
-            "😊",
-            "✨"
-          ],
-          "accessibility_text": "Little Krishna: Dancing."
-        },
-        {
-          "image_file": "eating.webp",
-          "emojis": [
-            "😊",
-            "✨"
-          ],
-          "accessibility_text": "Little Krishna: eating."
-        },
-        {
-          "image_file": "feedingCow.webp",
-          "emojis": [
-            "🐄",
-            "❤️",
-            "🙏"
-          ],
-          "accessibility_text": "Little Krishna playing with a cow."
-        },
-        {
-          "image_file": "hiding.webp",
-          "emojis": [
-            "😊",
-            "✨"
-          ],
-          "accessibility_text": "Little Krishna: hiding."
-        },
-        {
-          "image_file": "LovingCow.webp",
-          "emojis": [
-            "🐄",
-            "❤️",
-            "🙏"
-          ],
-          "accessibility_text": "Little Krishna playing with a cow."
-        },
-        {
-          "image_file": "NortyCow.webp",
-          "emojis": [
-            "🐄",
-            "❤️",
-            "🙏"
-          ],
-          "accessibility_text": "Little Krishna playing with a cow."
-        },
-        {
-          "image_file": "playingFluit.webp",
-          "emojis": [
-            "😊",
-            "✨",
-            "🎉"
-          ],
-          "accessibility_text": "Little Krishna happily playing."
-        },
-        {
-          "image_file": "pointCloud.webp",
-          "emojis": [
-            "😊",
-            "✨"
-          ],
-          "accessibility_text": "Little Krishna: pointCloud."
-        },
-        {
-          "image_file": "protectingFromRain.webp",
-          "emojis": [
-            "😊",
-            "✨"
-          ],
-          "accessibility_text": "Little Krishna: protectingFromRain."
-        },
-        {
-          "image_file": "ridingCowCart.webp",
-          "emojis": [
-            "🐄",
-            "❤️",
-            "🙏"
-          ],
-          "accessibility_text": "Little Krishna playing with a cow."
-        },
-        {
-          "image_file": "RidingCowCart2.webp",
-          "emojis": [
-            "🐄",
-            "❤️",
-            "🙏"
-          ],
-          "accessibility_text": "Little Krishna playing with a cow."
-        },
-        {
-          "image_file": "sayHello.webp",
-          "emojis": [
-            "😊",
-            "✨"
-          ],
-          "accessibility_text": "Little Krishna: sayHello."
-        },
-        {
-          "image_file": "sleepingWithCow.webp",
-          "emojis": [
-            "🐄",
-            "❤️",
-            "🙏"
-          ],
-          "accessibility_text": "Little Krishna playing with a cow."
-        },
-        {
-          "image_file": "withCalf.webp",
-          "emojis": [
-            "😊",
-            "✨"
-          ],
-          "accessibility_text": "Little Krishna: withCalf."
-        }
-      ]
-    },
-
-
-    {
-      "identifier": "6",
-      "name": "Krishna With Yashoda Ma",
-      "publisher": "paresh Khorashiya",
-      "tray_image_file": "sleepingOnMotherLap.webp",
-      "image_data_version": "1",
-      "avoid_cache": false,
-      "publisher_email": "ahirparesh5@gmail.com",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "nortyKrishna.webp",
-          "emojis": [
-            "😊",
-            "✨"
-          ],
-          "accessibility_text": "Little Krishna with Yashoda Ma: nortyKrishna."
-        },
-        {
-          "image_file": "chilingwithma.webp",
-          "emojis": [
-            "👩‍🍼",
-            "❤️",
-            "🙏"
-          ],
-          "accessibility_text": "Little Krishna playing with Yashoda Ma."
-        },
-        {
-          "image_file": "feeding.webp",
-          "emojis": [
-            "😊",
-            "✨"
-          ],
-          "accessibility_text": "Little Krishna with Yashoda Ma: feeding."
-        },
-        {
-          "image_file": "lovingMa.webp",
-          "emojis": [
-            "👩‍🍼",
-            "❤️",
-            "🙏"
-          ],
-          "accessibility_text": "Little Krishna playing with Yashoda Ma."
-        },
-        {
-          "image_file": "lovingMa2.webp",
-          "emojis": [
-            "👩‍🍼",
-            "❤️",
-            "🙏"
-          ],
-          "accessibility_text": "Little Krishna playing with Yashoda Ma."
-        },
-        {
-          "image_file": "lovingMa3.webp",
-          "emojis": [
-            "👩‍🍼",
-            "❤️",
-            "🙏"
-          ],
-          "accessibility_text": "Little Krishna playing with Yashoda Ma."
-        },
-        {
-          "image_file": "lovingMa4.webp",
-          "emojis": [
-            "👩‍🍼",
-            "❤️",
-            "🙏"
-          ],
-          "accessibility_text": "Little Krishna playing with Yashoda Ma."
-        },
-        {
-          "image_file": "maHelpingForSetHair.webp",
-          "emojis": [
-            "👩‍🍼",
-            "❤️",
-            "🙏"
-          ],
-          "accessibility_text": "Little Krishna playing with Yashoda Ma."
-        },
-        {
-          "image_file": "nortyKrishna2.webp",
-          "emojis": [
-            "😊",
-            "✨"
-          ],
-          "accessibility_text": "Little Krishna with Yashoda Ma: nortyKrishna2."
-        },
-        {
-          "image_file": "sleepingOnMotherLap.webp",
-          "emojis": [
-            "👩‍🍼",
-            "❤️",
-            "😊"
-          ],
-          "accessibility_text": "Little Krishna playing with Yashoda Ma."
-        }
-      ]
-    },
-
-
-
-
-    {
-      "identifier": "7",
-      "name": "Krishna With Radha",
-      "publisher": "paresh Khorashiya",
-      "tray_image_file": "loving.webp",
-      "image_data_version": "1",
-      "avoid_cache": false,
-      "publisher_email": "ahirparesh5@gmail.com",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "saySorryToRadha.webp",
-          "emojis": [
-            "🙏",
-            "😔",
-            "💐"
-          ],
-          "accessibility_text": "Krishna saying sorry to Radha."
-        },
-        {
-          "image_file": "dancing.webp",
-          "emojis": [
-            "💃",
-            "🎉",
-            "✨"
-          ],
-          "accessibility_text": "Krishna dancing with Radha."
-        },
-        {
-          "image_file": "eating.webp",
-          "emojis": [
-            "🍽️",
-            "😋",
-            "🧈"
-          ],
-          "accessibility_text": "Krishna eating with Radha."
-        },
-        {
-          "image_file": "feeding.webp",
-          "emojis": [
-            "🍽️",
-            "🤱",
-            "😊"
-          ],
-          "accessibility_text": "Krishna feeding Radha."
-        },
-        {
-          "image_file": "holdingHand.webp",
-          "emojis": [
-            "🤝",
-            "❤️",
-            "😊"
-          ],
-          "accessibility_text": "Krishna holding Radha's hand."
-        },
-        {
-          "image_file": "laughing.webp",
-          "emojis": [
-            "😄",
-            "😂",
-            "😊"
-          ],
-          "accessibility_text": "Krishna laughing with Radha."
-        },
-        {
-          "image_file": "layingFluat.webp",
-          "emojis": [
-            "🎶",
-            "🎵",
-            "😊"
-          ],
-          "accessibility_text": "Krishna playing the flute for Radha."
-        },
-        {
-          "image_file": "loving.webp",
-          "emojis": [
-            "😍",
-            "💕",
-            "😊"
-          ],
-          "accessibility_text": "Krishna showing love to Radha."
-        },
-        {
-          "image_file": "swinging.webp",
-          "emojis": [
-            "🌿",
-            "🎐",
-            "😊"
-          ],
-          "accessibility_text": "Krishna swinging with Radha."
-        }
-      ]
     }
+
+
 
 
 

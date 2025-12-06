@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="@color/infoPageBackgroundColor"
     android:orientation="vertical"
-    android:paddingTop="8dp"
+    android:layout_marginTop="25dp"
     tools:context=".StickerPackInfoActivity">
 
     <LinearLayout
